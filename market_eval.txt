@@ -1,0 +1,2 @@
+ret_train_pid.txt
+rank 1: 0.780285 rank 5: 0.902613 rank 10: 0.933492 mAP: 0.625130
