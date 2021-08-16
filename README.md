@@ -18,4 +18,5 @@ I build two types of model, the one that use one-stream network (without tempora
 <img src="https://github.com/farhantandia/Lightweight-DNN-Triplet-Center-Loss-Person-Reid/blob/main/results.png", width="500"><br>
 </p>
 
+*approximate parameters based on their backbone
 
