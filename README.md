@@ -20,3 +20,16 @@ I build two types of model, the one that use one-stream network (without tempora
 
 *approximate parameters based on their backbone
 
+### Benchmark References
+<pre>
+
+[29]A. Hermans, L. Beyer, and B. Leibe, “In defense of the triplet loss for person re-identification,”
+[23] Y. Sun, L. Zheng, W. Deng, and S. Wang, “SVDNet for Pedestrian Retrieval,”
+[24] D. Li, X. Chen, Z. Zhang, and K. Huang, “Learning deep tr-Aware features over body and latent parts for person re-identification,” 
+[25] T. Guo, D. Wang, Z. Jiang, A. Men, and Y. Zhou, “Deep Network with Spatial and Channel Attention for Person Re-identification,”
+[27] X. Guo, “PERSON RE-IDENTIFICATION BY DEEP LEARNING MUTI-PART INFORMATION COMPLEMENTARY 
+[28] M. Jiang, Z. Li, and J. Chen, “Person Re-Identification Using Color Features and CNN Features,”
+
+</pre>
+
+
